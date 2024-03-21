@@ -1,7 +1,12 @@
 def lazy_function(a, b):
+    print('hello BOYS')
     print(a, b)
 
 
-print('hello BOYS')
+def my_feature_function():
+    """makes some things"""
 
-print(123)
+    a = 12
+    b = 19
+
+    return a + b 
