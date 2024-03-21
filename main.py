@@ -6,7 +6,10 @@ def lazy_function(a, b):
 
 
 def new():
-    pass
+    print("купить")
+    print("продать")
+    print("купить/продать")
+
 
 
 def my_feature_function():
@@ -14,3 +17,5 @@ def my_feature_function():
 
     size = 44
     price = 19
+
+    return
