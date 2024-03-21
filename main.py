@@ -1,5 +1,7 @@
-print ('hello world')
+def lazy_function():
+    pass
 
-1 + 1
+
+print('hello BOYS')
 
 print(123)
